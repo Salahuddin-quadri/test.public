@@ -6,4 +6,4 @@ age =25
 
 # Display the name
 echo "Good Name : $name"
-echo "Age: $age"
+echo "Age is this: $age"
